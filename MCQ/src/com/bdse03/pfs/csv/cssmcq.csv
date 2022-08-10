@@ -1,0 +1,10 @@
+1. CSS stands for ...;A. Cascade style sheets;B. Color and style sheets;C. Cascading style sheets;D. None of the above;3
+2. Which of the following is the correct syntax to select all paragraph elements in a div element?;A. div p;B. p;C. div#p;D. Class Example;1
+3. The property in CSS used to change the background color of an element is …;A. bgcolor;B. color;C. background-color;D. div ~ p;3
+4. Which of the following property is used as the shorthand property for the padding properties?;A. padding-left;B. padding-right;C. padding;D. All of the above;3
+5. The CSS property used to control the element's font-size is …;A. text-style;B. text-size;C. font-size;D. None of the above;3
+6. The HTML attribute used to define the inline styles is …;A. style;B. styles;C. class;D. None of the above;1
+7. The HTML attribute used to define the internal stylesheet is …;A. <style>;B. style;C. <link>;D. <script>;1
+8. Which of the following CSS property is used to set the background image of an element?;A. background-attachment;B. background-image;C. background-color;D. None of the above;2
+9. Which of the following property is used as the shorthand property of margin properties?;A. Margin-left;B. Margin-Right;C. Margin;D. None of the above;3
+10. The CSS property used to specify the transparency of an element is …;A. Opacity;B. Filter;C. Visibility;D. Overlay;1
